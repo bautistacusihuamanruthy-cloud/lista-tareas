@@ -1,4 +1,4 @@
-# Lista de tareas
+Lista de Tareas del Grupo Avanzado
 
  Integrantes del Equipo
 * Ruty Bautista Cusihuaman
