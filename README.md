@@ -3,8 +3,7 @@
  Integrantes del Equipo
 * Ruty Bautista Cusihuaman
 * Abel
-* salvatore
-* .......
+
 
 
  Descripción del Proyecto
